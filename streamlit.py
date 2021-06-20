@@ -10,12 +10,6 @@ import time
 from datetime import date
 from io import StringIO
 
-st.set_page_config(
-     page_title="Ex-stream-ly Cool App",
-     page_icon="🧊",
-     layout="wide",
-     initial_sidebar_state="expanded",
-     )
 # adding title and text in the app
 
 st.title('Hello World')
