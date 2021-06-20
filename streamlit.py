@@ -12,7 +12,6 @@ from io import StringIO
 
 # adding title and text in the app
 
-st.title('Hello World')
 st.write("Welcome to your first streamli application")
 st.sidebar.title("Share Price analysis for May 2019 to May 2020:")
 st.markdown("This application is a Share Price dashboard for Top 5 Gainers and Losers:")
