@@ -149,8 +149,6 @@ color = st.select_slider(
      options=['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
 st.write('My favorite color is', color)
 
-title = st.text_input('Movie title', 'Life of Brian')
-st.write('The current movie title is', title)
 
 number = st.number_input('Insert a number')
 st.write('The current number is ', number)
